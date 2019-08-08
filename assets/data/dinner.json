@@ -1,0 +1,19 @@
+{
+	"dinners": [{
+			"name": "Chicken On the rockz!",
+			"price": "$12.99",
+			"calories": "1000"
+		},
+		{
+			"name": "spagetti and meat balls",
+			"price": "$15.99",
+			"calories": "1600"
+		},
+		{
+			"name": "Steak dinner",
+			"price": "$24.99",
+			"calories": "1400"
+		}
+	]
+
+}

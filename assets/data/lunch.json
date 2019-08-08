@@ -1,0 +1,18 @@
+{
+	"lunch": [{
+			"name": "Thai Express",
+			"price": "$13.99",
+			"calories": "1200"
+		},
+		{
+			"name": "Chicken wrap",
+			"price": "$7.99",
+			"calories": "800"
+		},
+		{
+			"name": "Burrito",
+			"price": "$10.99",
+			"calories": "1100"
+		}
+	]
+}

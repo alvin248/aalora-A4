@@ -1,0 +1,18 @@
+{
+	"breakfasts": [{
+			"name": "Fried Eggs",
+			"price": "$3.99",
+			"calories": "700"
+		},
+		{
+			"name": "Cream cheese Bagel",
+			"price": "$3.99",
+			"calories": "860"
+		},
+		{
+			"name": "Coffee",
+			"price": "$1.99",
+			"calories": "100"
+		}
+	]
+}
